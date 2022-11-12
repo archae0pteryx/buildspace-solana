@@ -1,0 +1,179 @@
+{
+  "candyMachine": {
+    "model": "candyMachine",
+    "address": {
+      "_bn": {
+        "negative": 0,
+        "words": [
+          13989250, 44210900, 33684859, 51037917, 1730762, 56039506, 32791834,
+          35747332, 18949979, 20567, 0
+        ],
+        "length": 10,
+        "red": null
+      }
+    },
+    "programAddress": {
+      "_bn": {
+        "negative": 0,
+        "words": [
+          65547316, 2206016, 29534255, 39518637, 18960832, 39484093, 36780087,
+          3757536, 37616685, 150203, 0
+        ],
+        "length": 10,
+        "red": null
+      }
+    },
+    "version": 2,
+    "authorityAddress": {
+      "_bn": {
+        "negative": 0,
+        "words": [
+          2413663, 25949128, 46229055, 26215192, 661131, 47940427, 38926702,
+          62842689, 59006665, 3837426, 0
+        ],
+        "length": 10,
+        "red": null
+      }
+    },
+    "walletAddress": {
+      "_bn": {
+        "negative": 0,
+        "words": [
+          2413663, 25949128, 46229055, 26215192, 661131, 47940427, 38926702,
+          62842689, 59006665, 3837426, 0
+        ],
+        "length": 10,
+        "red": null
+      }
+    },
+    "tokenMintAddress": null,
+    "collectionMintAddress": {
+      "_bn": {
+        "negative": 0,
+        "words": [
+          60325578, 12028182, 65538610, 23345789, 46369014, 63137613, 12850936,
+          37011695, 36431596, 2701780, 0
+        ],
+        "length": 10,
+        "red": null
+      }
+    },
+    "uuid": "#00000",
+    "price": {
+      "basisPoints": {
+        "negative": 0,
+        "words": [31564544, 4, 0],
+        "length": 2,
+        "red": null
+      },
+      "currency": {
+        "symbol": "SOL",
+        "decimals": 9
+      }
+    },
+    "symbol": "NB",
+    "sellerFeeBasisPoints": 100,
+    "isMutable": true,
+    "retainAuthority": true,
+    "goLiveDate": {
+      "negative": 0,
+      "words": [57595871, 24],
+      "length": 2,
+      "red": null
+    },
+    "maxEditionSupply": {
+      "negative": 0,
+      "words": [0, 0, 0],
+      "length": 1,
+      "red": null
+    },
+    "items": [
+      {
+        "name": "Number #0001",
+        "uri": "https://arweave.net/wWzsafvEqMoCo-i7hINqU1pHtgWnKoNAGDDPx-DLhiY"
+      },
+      {
+        "name": "Number #0002",
+        "uri": "https://arweave.net/IVC5wO-c75dVJMUlHm4Unu3XgtW6LLUJ1g-T6htDlZw"
+      },
+      {
+        "name": "Number #0003",
+        "uri": "https://arweave.net/fZ4bZYdKmzqr7KnEv0NouMM9C_c8MUPYAcqc3aX4yn0"
+      },
+      {
+        "name": "Number #0004",
+        "uri": "https://arweave.net/VUrkRd1Oz75pvCYbKh-KwhIgrfG6Caz2CzuH7BTXNOM"
+      },
+      {
+        "name": "Number #0005",
+        "uri": "https://arweave.net/CrVvjo7ZxvZGlZdcZUIhHn0khrHREqVnAZ_hNe0dwhQ"
+      },
+      {
+        "name": "Number #0006",
+        "uri": "https://arweave.net/jCFjYPWpWRHCyxpklsxxg7RaK7G55M_owZyzl-m6FFc"
+      },
+      {
+        "name": "Number #0007",
+        "uri": "https://arweave.net/fmFtjW8ICAE9McbgkmPVV0TefGDacAOTGYPiwvp3klc"
+      },
+      {
+        "name": "Number #0008",
+        "uri": "https://arweave.net/AEiEiFIZBvDR4HJ-WYni4WVS0uigNyMEPcq9W3lLIHk"
+      },
+      {
+        "name": "Number #0009",
+        "uri": "https://arweave.net/D1_ookYDVlf5_dz0VySBnZ4GsfmKXGpgs4PLUibwutU"
+      },
+      {
+        "name": "Number #0010",
+        "uri": "https://arweave.net/X-YfOujwVUvUTEfhyL4Rcc7bOoWsIcXKOY59YUDSPBk"
+      }
+    ],
+    "itemsAvailable": {
+      "negative": 0,
+      "words": [10, 0, 0],
+      "length": 1,
+      "red": null
+    },
+    "itemsMinted": {
+      "negative": 0,
+      "words": [0, 0, 0],
+      "length": 1,
+      "red": null
+    },
+    "itemsRemaining": {
+      "negative": 0,
+      "words": [10],
+      "length": 1,
+      "red": null
+    },
+    "itemsLoaded": {
+      "negative": 0,
+      "words": [10, 0],
+      "length": 1,
+      "red": null
+    },
+    "isFullyLoaded": true,
+    "endSettings": null,
+    "hiddenSettings": null,
+    "whitelistMintSettings": null,
+    "gatekeeper": null,
+    "creators": [
+      {
+        "address": {
+          "_bn": {
+            "negative": 0,
+            "words": [
+              2413663, 25949128, 46229055, 26215192, 661131, 47940427, 38926702,
+              62842689, 59006665, 3837426, 0
+            ],
+            "length": 10,
+            "red": null
+          }
+        },
+        "verified": false,
+        "share": 100
+      }
+    ]
+  }
+}
